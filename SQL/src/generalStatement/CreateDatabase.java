@@ -1,4 +1,4 @@
-package createDatabase;
+package generalStatement;
 
 import java.sql.*;
 
